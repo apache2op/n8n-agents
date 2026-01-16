@@ -85,6 +85,9 @@ n8nio/n8n
 
 * Select the **official image**: `n8nio/n8n`
 
+![Docker Desktop – n8nio/n8n](<img width="1905" height="1080" alt="image" src="https://github.com/user-attachments/assets/2650002a-5283-43e4-b54b-b79c559fdeaf" />
+)
+
 ### 3️⃣ Pull the Image
 
 * Click **Pull** to download the image
@@ -182,20 +185,19 @@ You can now interact with the agent via:
 ```
 n8n-agents/
 │
-├── n8n-agents/
-│ ├── yt-shorts-agent/
-│ │ ├── yt-shorts-agent.json
-│ │ └── README.md
-│ │
-│ ├── sales-data-analyst/
-│ │ ├── sales-data-analyst.json
-│ │ └── README.md
-│ │
-│ ├── marketing-agent/
-│ │ ├── marketing-agent.json
-│ │ └── README.md
-│ │
-│ └── data-analyst-agent/
+│─ yt-shorts-agent/
+│ ├── yt-shorts-agent.json
+│ └── README.md
+│
+│─ sales-data-analyst/
+│ ├── sales-data-analyst.json
+│ └── README.md
+│
+│─ marketing-agent/
+│ ├── marketing-agent.json
+│ └── README.md
+│
+│─ data-analyst-agent/
 │ ├── data-analyst-agent.json
 │ └── README.md
 │
