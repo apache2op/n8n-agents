@@ -85,7 +85,7 @@ n8nio/n8n
 
 * Select the **official image**: `n8nio/n8n`
 
-![Docker Desktop – n8nio/n8n](images/Screenshot 2026-01-17 111702.png)
+![Docker Desktop – n8nio/n8n](./images/docker.png)
 
 ### 3️⃣ Pull the Image
 
