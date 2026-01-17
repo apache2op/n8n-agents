@@ -85,7 +85,7 @@ n8nio/n8n
 
 * Select the **official image**: `n8nio/n8n`
 
-![Docker Desktop – n8nio/n8n](<img width="1905" height="1080" alt="image" src="https://github.com/user-attachments/assets/2650002a-5283-43e4-b54b-b79c559fdeaf" />
+![Docker Desktop – n8nio/n8n](<img width="1905" height="1080" alt="image" src="./images/Screenshot 2026-01-17 111702.png" />
 )
 
 ### 3️⃣ Pull the Image
