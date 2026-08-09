@@ -154,3 +154,25 @@ Built with ❤️ using n8n and NVIDIA Nemotron models.
 ---
 
 **Author:** *apache2op*
+
+## 🔄 Quick Start Checklist
+
+Use this checklist when importing an n8n agent workflow for the first time:
+
+1. Make sure your n8n instance is running.
+2. Open the workflow JSON file from this repository.
+3. Import the JSON into n8n using the workflow import option.
+4. Review all AI Agent and tool nodes before running the workflow.
+5. Configure the required credentials for services such as Google Sheets or LLM providers.
+6. Replace any example configuration with your own values.
+7. Test the workflow manually before activating it.
+8. Activate the workflow only after confirming that all nodes work correctly.
+
+### Security Checklist
+
+- Never commit API keys, passwords, access tokens, or other secrets.
+- Use n8n credentials or environment variables instead of hardcoding secrets.
+- Review imported workflows before executing them.
+- Use test data when evaluating a workflow for the first time.
+
+This checklist provides a safer and more consistent setup process for users who are new to importing n8n AI-agent workflows.
